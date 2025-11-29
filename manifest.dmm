@@ -1,3 +1,4 @@
 # Basic modules
 $include https://raw.githubusercontent.com/choco-technologies/dmffs/refs/heads/master/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmramfs/refs/heads/master/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmell/refs/heads/main/manifest.dmm
