@@ -6,3 +6,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmini/refs/heads/m
 $include https://raw.githubusercontent.com/choco-technologies/dmdrvi/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmclk/refs/heads/master/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmfsi/refs/heads/master/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmlist/refs/heads/master/manifest.dmm
