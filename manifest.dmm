@@ -9,3 +9,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmfsi/refs/heads/m
 $include https://raw.githubusercontent.com/choco-technologies/dmlist/refs/heads/master/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmdevfs/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmhaman/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmgpio/refs/heads/master/manifest.dmm
