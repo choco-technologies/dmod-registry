@@ -13,3 +13,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmgpio/refs/heads/
 $include https://raw.githubusercontent.com/choco-technologies/dmuart/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dm_sw_ring/refs/heads/master/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmheap/refs/heads/master/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmosi/refs/heads/main/manifest.dmm
