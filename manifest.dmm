@@ -16,3 +16,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmheap/refs/heads/
 $include https://raw.githubusercontent.com/choco-technologies/dmosi/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmfmc/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmtty/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmsystem/refs/heads/main/manifest.dmm
