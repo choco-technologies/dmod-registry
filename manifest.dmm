@@ -20,3 +20,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmsystem/refs/head
 $include https://raw.githubusercontent.com/choco-technologies/dmosi-posix/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmosi-proc/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmdma/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmeth/refs/heads/main/manifest.dmm
