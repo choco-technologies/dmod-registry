@@ -24,3 +24,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmeth/refs/heads/m
 $include https://raw.githubusercontent.com/choco-technologies/dmnet/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmroute/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmnetif/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmarp/refs/heads/main/manifest.dmm
