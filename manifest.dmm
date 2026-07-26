@@ -28,3 +28,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmarp/refs/heads/m
 $include https://raw.githubusercontent.com/choco-technologies/dmnetbridge/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmip/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmicmp/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmudp/refs/heads/main/manifest.dmm
