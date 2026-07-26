@@ -22,3 +22,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmosi-proc/refs/he
 $include https://raw.githubusercontent.com/choco-technologies/dmdma/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmeth/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmnet/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmroute/refs/heads/main/manifest.dmm
