@@ -30,3 +30,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmip/refs/heads/ma
 $include https://raw.githubusercontent.com/choco-technologies/dmicmp/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmudp/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmtcp/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmdhcp/refs/heads/main/manifest.dmm
