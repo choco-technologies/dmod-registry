@@ -33,5 +33,5 @@ $include https://raw.githubusercontent.com/choco-technologies/dmtcp/refs/heads/m
 $include https://raw.githubusercontent.com/choco-technologies/dmdhcp/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmtelnet/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmftp/refs/heads/main/manifest.dmm
-$include https://raw.githubusercontent.com/choco-technologies/dmblkid/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmblock/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmsdio/refs/heads/main/manifest.dmm
