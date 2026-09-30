@@ -36,3 +36,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmftp/refs/heads/m
 $include https://raw.githubusercontent.com/choco-technologies/dmblock/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmsdio/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmfatfs/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmvfs/refs/heads/develop/manifest.dmm
