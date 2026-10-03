@@ -41,3 +41,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmvfs/refs/heads/d
 $include https://raw.githubusercontent.com/choco-technologies/dmlcdtft/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmi2c/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmft5336/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmview/refs/heads/main/manifest.dmm
