@@ -48,3 +48,6 @@ $include https://raw.githubusercontent.com/choco-technologies/todmvi/refs/heads/
 $include https://raw.githubusercontent.com/choco-technologies/dmimg/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmimg_png/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmimg_jpeg/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmvsi/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/todmvs/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmvs_html/refs/heads/main/manifest.dmm
