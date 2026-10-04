@@ -42,3 +42,9 @@ $include https://raw.githubusercontent.com/choco-technologies/dmlcdtft/refs/head
 $include https://raw.githubusercontent.com/choco-technologies/dmi2c/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmft5336/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmview/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/todmv/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/todmvf/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/todmvi/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmimg/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmimg_png/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmimg_jpeg/refs/heads/main/manifest.dmm
