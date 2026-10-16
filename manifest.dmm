@@ -64,3 +64,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmrng/refs/heads/m
 $include https://raw.githubusercontent.com/choco-technologies/dmrtc/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmutc/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmntp/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmtls/refs/heads/main/manifest.dmm
