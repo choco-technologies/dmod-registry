@@ -22,6 +22,7 @@ $include https://raw.githubusercontent.com/choco-technologies/dmosi-posix/refs/h
 $include https://raw.githubusercontent.com/choco-technologies/dmosi-proc/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmdma/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmspi/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmesphosted/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmeth/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmnet/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmroute/refs/heads/main/manifest.dmm
