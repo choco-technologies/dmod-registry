@@ -69,3 +69,5 @@ $include https://raw.githubusercontent.com/choco-technologies/dmntp/refs/heads/m
 $include https://raw.githubusercontent.com/choco-technologies/dmtls/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmcrypto/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmsecrets/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmqspi/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmspiflash/refs/heads/main/manifest.dmm
