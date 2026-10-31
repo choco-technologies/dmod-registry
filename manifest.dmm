@@ -72,3 +72,5 @@ $include https://raw.githubusercontent.com/choco-technologies/dmsecrets/refs/hea
 $include https://raw.githubusercontent.com/choco-technologies/dmqspi/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmspiflash/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmlittlefs/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmflash/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/fwupdate/refs/heads/main/manifest.dmm
