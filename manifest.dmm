@@ -75,3 +75,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmlittlefs/refs/he
 $include https://raw.githubusercontent.com/choco-technologies/dmflash/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/fwupdate/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmpsram/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmusbserial/refs/heads/main/manifest.dmm
