@@ -77,3 +77,4 @@ $include https://raw.githubusercontent.com/choco-technologies/fwupdate/refs/head
 $include https://raw.githubusercontent.com/choco-technologies/dmpsram/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmusbserial/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmst7789/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmjson/refs/heads/main/manifest.dmm
