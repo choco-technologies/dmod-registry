@@ -82,3 +82,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmcst328/refs/head
 $include https://raw.githubusercontent.com/choco-technologies/dmcst66xx/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmuc8253/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/phoneui/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dminput/refs/heads/main/manifest.dmm
