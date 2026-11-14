@@ -85,3 +85,4 @@ $include https://raw.githubusercontent.com/choco-technologies/phoneui/refs/heads
 $include https://raw.githubusercontent.com/choco-technologies/dminput/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmespwifi/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/calculator/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmtca8418/refs/heads/main/manifest.dmm
