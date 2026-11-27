@@ -93,3 +93,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmmeshcore/refs/he
 $include https://raw.githubusercontent.com/choco-technologies/dmnotify/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmpca9557/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmgt911/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmpwm/refs/heads/main/manifest.dmm
